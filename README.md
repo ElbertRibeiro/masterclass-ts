@@ -7,7 +7,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-restapi">Rest API</a>
+  <a href="#-aplicacao">Aplicação</a>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Este projeto é uma aplicação foi desenvolvido durante a [MasterClass](https:/
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## RestAPI
+## Aplicação
 
 ### Instalação
 
